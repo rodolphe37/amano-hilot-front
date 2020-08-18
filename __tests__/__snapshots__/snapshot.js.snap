@@ -1,0 +1,3963 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders BlogList page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders BlogPage page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders about page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders developpeur page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders homepage unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover cover"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders lapidairy page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
+
+exports[`renders therapeute page unchanged 1`] = `
+Array [
+  <a
+    name="top"
+  />,
+  <div
+    className="jsx-1552805316"
+  >
+    <nav
+      className="port-navbar port-default absolute navbar navbar-expand-md navbar-light bg-faded"
+    >
+      <div
+        className="react-reveal jsx-1552805316 container"
+        style={
+          Object {
+            "opacity": undefined,
+          }
+        }
+      >
+        <a
+          className="port-navbar-brand navbar-brand"
+          href="/"
+        >
+          <img
+            alt="logo-amano-hilot"
+            className="jsx-1552805316"
+            src="undefined/uploads/logo-amano-hilot_2_6d0b15c029.png"
+          />
+        </a>
+        <button
+          aria-label="Toggle navigation"
+          className="navbar-toggler"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          className="collapse navbar-collapse"
+          style={Object {}}
+        >
+          <ul
+            className="mr-auto navbar-nav"
+          >
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/#home"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Accueil
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/about"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                A Propos
+              </a>
+            </li>
+            <li
+              className="port-navbar-item port-navbar-link nav-item"
+              data-tooltip="Ici les articles du blog sont affichés sous forme de liste...  avec possibilité de faire une recherche par mots clés."
+              data-tooltip-location="bottom"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/blogsPage"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Blog
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <a
+                className="nav-link port-navbar-link"
+                href="/contact"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Contact
+              </a>
+            </li>
+            <li
+              className="port-navbar-item nav-conditional nav-item"
+            >
+              <ul
+                className="jsx-1552805316 nav-activity"
+              >
+                <li
+                  className="uncontrol-nav dropdown nav-item"
+                  onKeyDown={[Function]}
+                >
+                  <a
+                    aria-expanded={false}
+                    aria-haspopup={true}
+                    className="nav-link port-navbar-link dropdown-toggle nav-link"
+                    href="#"
+                    onClick={[Function]}
+                  >
+                    Activités
+                  </a>
+                  <div
+                    aria-hidden={true}
+                    className="dropdown-menu dropdown-menu-right"
+                    role="menu"
+                    tabIndex="-1"
+                  >
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/portfolio"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Développeur 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/therapeute"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Thérapeute 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/lapidaire"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Lapidaire 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item"
+                        href="/blogs"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Blog 
+                      </a>
+                    </button>
+                    <button
+                      className="dropdown-item"
+                      onClick={[Function]}
+                      role="menuitem"
+                      tabIndex="0"
+                      type="button"
+                    >
+                      <a
+                        className="jsx-1552805316 list-group-item opt"
+                        href="/jeux"
+                        onClick={[Function]}
+                        onMouseEnter={[Function]}
+                      >
+                         Les Jeux Amano-Hilot 
+                      </a>
+                    </button>
+                  </div>
+                </li>
+              </ul>
+            </li>
+            <li
+              className="port-navbar-item nav-item"
+            >
+              <div
+                className="jsx-1552805316"
+              >
+                <iframe
+                  allow="encrypted-media"
+                  allowtransparency="true"
+                  className="jsx-1552805316 sharing-button"
+                  frameBorder="0"
+                  height="40"
+                  scrolling="no"
+                  src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fwww.amano-hilot.fr&layout=box_count&size=small&width=81&height=40&appId"
+                  style={
+                    Object {
+                      "border": "none",
+                      "overflow": "hidden",
+                    }
+                  }
+                  title="sharing button"
+                  width="81"
+                />
+                                
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    className="layout-container"
+    id="home"
+  >
+    <main
+      className="cover undefined"
+    >
+      <div
+        className="wrapper"
+      >
+        <div>
+          <div>
+            <svg
+              height="200px"
+              preserveAspectRatio="xMidYMid meet"
+              style={
+                Object {
+                  "left": "50%",
+                  "position": "absolute",
+                  "top": "17%",
+                  "transform": "translate(-50%, -50%) matrix(1, 0, 0, 1, 0, 0)",
+                }
+              }
+              viewBox="0 0 187.3 93.7"
+              width="300px"
+            >
+              <path
+                d="M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+              <path
+                d="				M93.9,46.4c9.3,9.5,13.8,17.9,23.5,17.9s17.5-7.8,17.5-17.5s-7.8-17.6-17.5-17.5c-9.7,0.1-13.3,7.2-22.1,17.1 				c-8.9,8.8-15.7,17.9-25.4,17.9s-17.5-7.8-17.5-17.5s7.8-17.5,17.5-17.5S86.2,38.6,93.9,46.4z"
+                fill="none"
+                id="outline-bg"
+                opacity="0.05"
+                stroke="#ededed"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeMiterlimit={10}
+                strokeWidth={4}
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>,
+  <footer
+    className="pt-4 my-md-5 pt-md-5 border-top"
+  >
+    <div
+      className="wrapper-ant-anim"
+    >
+      <div
+        className="box-canvas"
+      >
+        <div
+          className="scene-wrapper"
+        >
+          <div
+            className="ant-wrapper one"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper two"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+          <div
+            className="ant-wrapper three"
+          >
+            <div
+              className="leaf"
+            />
+            <div
+              className="body-left"
+            />
+            <div
+              className="body-middle"
+            />
+            <div
+              className="body-right"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      className="topButton"
+    >
+      <a
+        href="#home"
+      >
+        <img
+          alt="back-to-top-button"
+          src="/assets/backtotop.png"
+        />
+      </a>
+    </div>
+    <div
+      className="react-reveal row footer-content"
+      style={
+        Object {
+          "opacity": undefined,
+        }
+      }
+    >
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/therapeute#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Thérapeute
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/tarifs-des-prestations#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Tarif des prestations
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#therapeute"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stages et Formation
+          </a>
+          <a
+            className="link-footer"
+            href="/mentions-legales#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Mentions Légales
+          </a>
+          <a
+            className="link-footer opt"
+            href="/social-amano#home"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Réseaux Sociaux
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/portfolio#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Développeur
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small dev-list"
+        >
+          <a
+            className="link-footer"
+            href="https://github.com/rodolphe37"
+            target="new"
+          >
+            GitHub
+          </a>
+          <br />
+          <a
+            className="link-footer"
+            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
+            target="new"
+          >
+            Linkedin
+          </a>
+           / 
+          <a
+            className="link-footer"
+            href="/assets/pdf/cv-developpeur.pdf"
+            target="new"
+          >
+            Cv
+          </a>
+          <br />
+          <a
+            className="link-footer codepen-link"
+            href="https://codepen.io/rodcefim"
+            target="new"
+          >
+            CodePen
+          </a>
+           / 
+          <a
+            className="link-footer codesandbox-link"
+            href="https://codesandbox.io/u/rodolphe37"
+            target="new"
+          >
+            CodeSandBox
+          </a>
+        </div>
+        <div>
+          <small
+            className="d-block mb-3 link-footer brand-footer"
+          >
+            Copyright © Amano-Hilot.fr 2020
+          </small>
+        </div>
+      </div>
+      <div
+        className="col-6 col-md"
+      >
+        <a
+          className="titl"
+          href="/lapidaire#home"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          <h5>
+            Lapidaire
+          </h5>
+        </a>
+        <div
+          className="list-unstyled text-small"
+        >
+          <a
+            className="link-footer"
+            href="/formation/formations#lapidaire"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lapidaire
+          </a>
+          <a
+            className="link-footer"
+            href="/formation/formations#lithotherapie"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Stage Lithothérapie
+          </a>
+          <a
+            className="link-footer"
+            href="https://www.facebook.com/LapidArt-173291856624985"
+            target="new"
+          >
+            Page Facebook
+          </a>
+        </div>
+      </div>
+      <div
+        className="col-12 col-md socials"
+      >
+        <div
+          className="list-unstyled text-small"
+        >
+          <h5
+            style={
+              Object {
+                "marginLeft": "2.5vw",
+              }
+            }
+          >
+            Page Facebook
+          </h5>
+          <iframe
+            allow="encrypted-media"
+            allowtransparency="true"
+            className="facebook-footer"
+            frameBorder="0"
+            height="125"
+            scrolling="no"
+            src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Famanohilot%2F&tabs=timeline&width=250&height=120&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
+            style={
+              Object {
+                "border": "none",
+                "overflow": "hidden",
+              }
+            }
+            title="facebook"
+            width="250"
+          />
+        </div>
+      </div>
+    </div>
+  </footer>,
+]
+`;
