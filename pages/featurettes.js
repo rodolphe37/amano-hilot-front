@@ -13,14 +13,10 @@ const Featurettes = () => {
           <div className="row featurette">
             <div className="col-md-7 demo-sites">
               <br />
-              <Link href="/portfolio#work">
-                <a><h3 className="categories title-responsive" style={{ textAlign: 'center', width: '120%' }}>Développeur Web, Mobile et Desktop</h3></a>
-              </Link>
+              <a><h3 className="categories title-responsive" style={{ textAlign: 'center', width: '120%' }}>Développeur Web, Mobile et Desktop</h3></a>
               <h2 className="featurette-heading">Site Les Jeux Amano-Hilot<br /> <span className="text-muted">Landing page + 5 jeux.</span></h2>
               <p className="featurette-p">Site conçu avec React, React-spring, express...</p>
-              <Link href="/portfolio#work">
-                <div><a className="button-effect" role="button"><FizzyButton /></a></div>
-              </Link>
+              <div><a href="https://rodolphe-augusto.fr" className="button-effect" role="button"><FizzyButton /></a></div>
             </div>
             <div className="col-md-5">
               <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="assets/images/developpeur/allGames.gif" alt="game amano hilot" />
@@ -33,9 +29,7 @@ const Featurettes = () => {
             <div className="col-md-7 demo-sites order-md-2">
               <h2 className="featurette-heading">Site NFC Update <br /><span className="text-muted">Gestion des utilisateurs</span></h2>
               <p className="featurette-p">Site conçu avec Nodejs, Express, React, Material UI Hooks, React Hooks et React-Admin (Option Themes Light et Dark)</p>
-              <Link href="/portfolio#work">
-                <div><a className="button-effect" role="button"><FizzyButton /></a></div>
-              </Link>
+              <div><a href="https://rodolphe-augusto.fr" className="button-effect" role="button"><FizzyButton /></a></div>
             </div>
             <div className="col-md-5 order-md-1">
               <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="assets/images/developpeur/movieDemo.gif" alt="nfc update" />
@@ -48,9 +42,7 @@ const Featurettes = () => {
             <div className="col-md-7 demo-sites">
               <h2 className="featurette-heading">Site Amano-Hilot <br /><span className="text-muted">Site, Blog, Portfolio et Jeux</span></h2>
               <p className="featurette-p">Site conçu avec React, Next, Bootstrap et ReactStrap, Next-seo ainsi que Sass ...</p>
-              <Link href="/portfolio#work">
-                <div><a className="button-effect" role="button"><FizzyButton /></a></div>
-              </Link>
+              <div><a href="https://rodolphe-augusto.fr" className="button-effect" role="button"><FizzyButton /></a></div>
             </div>
             <div className="col-md-5">
               <img className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" src="/assets/images/developpeur/amano-hilot.gif" alt="project-amano-hilot" />
