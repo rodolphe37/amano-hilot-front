@@ -66,9 +66,7 @@ const Header = () => {
                       </DropdownToggle>
                       <DropdownMenu right>
                         <DropdownItem>
-                          <Link href="/portfolio">
-                            <a className="list-group-item"> Développeur </a>
-                          </Link>
+                          <a href="https://rodolphe-augusto.fr" target="new" className="list-group-item"> Développeur </a>
                         </DropdownItem>
                         <DropdownItem>
                           <Link href="/therapeute">

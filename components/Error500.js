@@ -43,7 +43,7 @@ const Error500 = () => {
             </span>
           </div>
           <div className="container-error500">
-            <div class="container content-error500 text-muted">
+            <div className="container content-error500 text-muted">
               <p><strong style={{ color: 'rgba(0, 0, 0, 0.5)', textTransform: 'uppercase' }}>On dirait que quelque chose s'est mal passé!!</strong></p>
 
               <p className="text-error500">Nous suivons ces erreurs automatiquement, mais si le problème persiste, n'hésitez pas à nous contacter.<br /> En attendant, essayez de rafraîchir la page de votre navigateur.</p>

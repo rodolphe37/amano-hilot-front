@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import App from 'next/app';
 import 'react-responsive-modal/styles.css';
 import { Provider as AlertProvider } from 'react-alert'
@@ -21,16 +21,16 @@ const options = {
 
 export default class MyApp extends App {
 
-  static async getInitialProps({ Component, router, ctx }) {
-    let pageProps = {}
+  // static async getInitialProps({ Component, router, ctx }) {
+  //   let pageProps = {}
 
-    if (Component.getInitialProps) {
-      pageProps = await Component.getInitialProps(ctx)
-    }
+  //   if (Component.getInitialProps) {
+  //     pageProps = await Component.getInitialProps(ctx)
+  //   }
 
 
-    return { pageProps }
-  }
+  //   return { pageProps }
+  // }
 
   render() {
     const { Component, pageProps } = this.props
