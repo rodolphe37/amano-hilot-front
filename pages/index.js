@@ -108,18 +108,18 @@ const Home = () => {
                       </Row>
                     </Container>
                     <hr />
-                    <Bounce bottom ssrFadeout>
+                    <Bounce bottom>
                       <Features />
                     </Bounce>
                     <hr className="featurette-divider" />
                     <br />
                     <br />
                     <br />
-                    <Zoom cascade ssrFadeout>
+                    <Zoom cascade>
                       <Featurettes />
                     </Zoom>
                   </Row>
-                  <Slide left ssrFadeout>
+                  <Slide left>
                     <Link href="/lapidaire">
                       <a>
                         <h3 className="categories" style={{ textAlign: 'center' }}>Lapidaire</h3>
