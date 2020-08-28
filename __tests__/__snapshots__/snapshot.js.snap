@@ -130,9 +130,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -440,43 +439,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -696,9 +666,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -1006,43 +975,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -1262,9 +1202,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -1572,43 +1511,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -1828,9 +1738,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -2138,43 +2047,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -2394,9 +2274,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -2704,43 +2583,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -2960,9 +2810,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -3270,43 +3119,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small
@@ -3526,9 +3346,8 @@ Array [
                     >
                       <a
                         className="jsx-1552805316 list-group-item"
-                        href="/portfolio"
-                        onClick={[Function]}
-                        onMouseEnter={[Function]}
+                        href="https://rodolphe-augusto.fr"
+                        target="new"
                       >
                          Développeur 
                       </a>
@@ -3836,43 +3655,14 @@ Array [
         >
           <a
             className="link-footer"
-            href="https://github.com/rodolphe37"
+            href="https://www.rodolphe-augusto.fr/"
             target="new"
           >
-            GitHub
+            Mon Portfolio
           </a>
           <br />
-          <a
-            className="link-footer"
-            href="https://www.linkedin.com/in/rodolphe-augusto-d%C3%A9veloppeur-full-stack-react-node-js-1a20b759/"
-            target="new"
-          >
-            Linkedin
-          </a>
-           / 
-          <a
-            className="link-footer"
-            href="/assets/pdf/cv-developpeur.pdf"
-            target="new"
-          >
-            Cv
-          </a>
           <br />
-          <a
-            className="link-footer codepen-link"
-            href="https://codepen.io/rodcefim"
-            target="new"
-          >
-            CodePen
-          </a>
-           / 
-          <a
-            className="link-footer codesandbox-link"
-            href="https://codesandbox.io/u/rodolphe37"
-            target="new"
-          >
-            CodeSandBox
-          </a>
+          <br />
         </div>
         <div>
           <small

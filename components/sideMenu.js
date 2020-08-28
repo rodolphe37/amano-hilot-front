@@ -7,9 +7,7 @@ const SideMenu = () => {
   return (
     <div className="side-neumorphic">
       <div className="list-group">
-        <Link href="/portfolio">
-          <a className="list-group-item text-side"> Développeur </a>
-        </Link>
+        <a href="https://rodolphe-augusto.fr" target="new" className="list-group-item text-side"> Développeur </a>
         <Link href="/therapeute">
           <a className="list-group-item text-side"> Thérapeute </a>
         </Link>
